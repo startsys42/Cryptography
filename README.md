@@ -16,6 +16,7 @@ usica
 palabras
 ruido
 logica
+numeros romanos
 colores
 ambiguedaz enguaje
 historia
