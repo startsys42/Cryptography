@@ -11,4 +11,6 @@ dificultad matmaticas
 lenguaje simbolos redes enrutamiento comandos señales rf radiofrcuencia satelites, ...
 stenagrafia y usos, y materiales tecnicas
 mensajes fuente inspiracion
+blockchain p2p
+3d art cipher
 inspiracion
